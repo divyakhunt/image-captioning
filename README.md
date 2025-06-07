@@ -41,7 +41,7 @@ This project generates natural language captions for images using a combination 
 
 ## 💻 How to Run
 
-1. Install required packages:
+1. **Clone this repository**:
    ```bash
-   pip install -r requirements.txt
-
+   git clone https://github.com/<your-username>/image-captioning.git
+   cd image-captioning
